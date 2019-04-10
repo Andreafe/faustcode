@@ -1,0 +1,2 @@
+# faustcode
+esercizio Faust
